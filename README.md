@@ -23,3 +23,5 @@ Desenvolvedor de sistemas em formação com foco em dados.
 - [Tabela de Compras](https://lucas-santana-marianni.github.io/Tabela_Compras-HTML/)
 
 - [Tuning Garage](https://lucas-santana-marianni.github.io/Site-Tuning_Garage-HTML/)
+
+- [Controle de Estoque](https://lucas-santana-marianni.github.io/-Sistema_de_Controle_de_Estoque-SQL/)
