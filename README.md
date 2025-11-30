@@ -20,6 +20,6 @@ Desenvolvedor de sistemas em formação com foco em dados.
 
 - [Site los Cubos](https://lucas-santana-marianni.github.io/los_cubos_demo-HTML/)
 
-- [Tabela de Compras](https://lucas-santana-marianni.github.io/Tabela_Compras-HTML/)[
+- [Tabela de Compras](https://lucas-santana-marianni.github.io/Tabela_Compras-HTML/)
 
 - [Tuning Garage](https://lucas-santana-marianni.github.io/Site-Tuning_Garage-HTML/)
