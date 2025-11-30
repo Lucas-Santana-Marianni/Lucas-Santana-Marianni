@@ -16,5 +16,10 @@ Desenvolvedor de sistemas em formação com foco em dados.
 </div>
 
 ### Projetos com destaques
-[Controle de estoque](https://github.com/Lucas-Santana-Marianni/-Sistema_de_Controle_de_Estoque-SQL)
-[Site los Cubos](https://lucas-santana-marianni.github.io/los_cubos_demo-HTML/)
+- [Controle de estoque](https://github.com/Lucas-Santana-Marianni/-Sistema_de_Controle_de_Estoque-SQL)
+
+- [Site los Cubos](https://lucas-santana-marianni.github.io/los_cubos_demo-HTML/)
+
+- [Tabela de Compras](https://lucas-santana-marianni.github.io/Tabela_Compras-HTML/)[
+
+- [Tuning Garage](https://lucas-santana-marianni.github.io/Site-Tuning_Garage-HTML/)
