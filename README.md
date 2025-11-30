@@ -16,7 +16,7 @@ Desenvolvedor de sistemas em formação com foco em dados.
 </div>
 
 ### Projetos com destaques
-- [Controle de estoque](https://github.com/Lucas-Santana-Marianni/-Sistema_de_Controle_de_Estoque-SQL)
+- [Controle de estoque](https://lucas-santana-marianni.github.io/LojaDoMundo-SQL/)
 
 - [Site los Cubos](https://lucas-santana-marianni.github.io/los_cubos_demo-HTML/)
 
